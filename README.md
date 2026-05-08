@@ -1,1 +1,1 @@
-# sulsels-store
+# sulsel-store
